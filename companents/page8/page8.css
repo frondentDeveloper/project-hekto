@@ -1,0 +1,126 @@
+.infortext p {
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 48px;
+    color: #151875;
+}
+
+.massagetext {
+    margin-top: 5%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8A8FB9;
+}
+
+.inforimg {
+    margin-top: 10%;
+}
+
+.inforimg img {
+    margin-left: 10px;
+}
+
+.waycantext p {
+    margin-left: 9%;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 48px;
+    color: #151875;
+}
+
+.colimgone {
+    margin-top: 3%;
+    margin-left: 9%;
+}
+
+.colimgone p {
+    margin-top: 3%;
+    width: 172px;
+    height: 26px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 26px;
+    color: #8A8FB9;
+}
+
+.colimgone span {
+    position: absolute;
+    margin-top: -13px !important;
+    margin-left: 20px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 26px;
+    color: #8A8FB9;
+
+}
+
+.colimgone img {
+    margin-top: 3%;
+    width: 50px;
+    height: 50px;
+}
+
+.forcolimg1 {
+    margin-top: 6%;
+}
+
+.getintouch {
+    margin-top: 15%;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 48px;
+    color: #151875;
+}
+
+.gettextin {
+    margin-top: 5%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8A8FB9;
+}
+.iputare2{
+    height: 35px;
+    outline: none;
+    width: 230px;
+    margin-left:15% !important;
+}
+.inputares{
+    margin-top:9%;
+    margin-left: -18%;
+}
+.subject{
+    outline: none;
+    margin-top: 5%;
+    height: 35px;
+    width: 560px;
+}
+.typtext{
+    outline: none;
+    margin-top: 5%;
+    height: 185px;
+    width: 560px;
+}
+.sendgmail{
+    margin-top: 8%;
+    color: white;
+    cursor: pointer;
+    padding: 10px 0;
+    text-align: center;
+    Width:157px;
+    Height: 44px;
+    background: #FB2E86;
+    border-radius: 3px;
+}
+.eightimg{
+    margin-top: 25%;
+}

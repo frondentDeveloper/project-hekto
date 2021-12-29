@@ -1,0 +1,41 @@
+.imgoclocks{
+    margin-top: 12%;
+}
+.orderimg{
+    margin-top: 25%;
+    margin-left: 450px;
+}
+.ordertext{
+    margin-top: 5%;
+    margin-left: -80%;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #101750;
+}
+.ordermore{
+    margin-top: 5%;
+    margin-left: -90%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #8D92A7;
+}
+.containebuton{
+    margin-top: 7%;
+    margin-left: -18%;
+    padding: 10px 5px;
+    color: white;
+    height: 45px;
+    width: 150px;
+    background: #FF1788;
+    border-radius: 3px;
+}
+.tableimg{
+    margin-left: 4%;
+    margin-top: 50%;
+}

@@ -1,0 +1,156 @@
+.defultpage{
+    background: #F6F5FF;
+    height:250px;
+}
+.greedtexts{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 42px;
+    color: #101750;
+}
+.persanal{
+    margin-top: 5%;
+}
+.persanal1{
+    margin-top: 8%;
+}
+.greedtexts p{
+    margin-top: 2%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.greedtexts span{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FB2E86;
+}
+.textitemine{
+    margin-top: 5%;
+    font-family: Josefin Sans;
+    font-size: 22px;
+    line-height: 26px;
+    color: #151875;
+}
+.textitemine p{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #8A8FB9;
+}
+.oneperpa{
+    margin-top: 20%;
+    margin-left: 80px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #3F509E;
+}
+.downpage{
+    outline: none;
+    width: 90px;
+    height: 25px;
+}
+.twopepage{
+    margin-top: 20%;
+    margin-left: 100px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3F509E;
+}
+.perpagesel {
+    margin-top: -3%;
+}
+.sele{
+    height: 25px;
+}
+.wiewsection{
+    margin-top: 6%;
+    margin-left: 7%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3F509E;
+}
+.wiewsection img{
+    cursor: pointer;
+    width: 20px;
+}
+.vector{
+    margin-left:7px;
+}
+.leftinput{
+    height: 25px;
+    margin-left: 6px;
+    width: 100px;
+    outline: none;
+}
+.fuscetext{
+    margin-top: 3%;
+    font-weight: 600;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #151875;
+}
+.forcards{
+    padding: 30px 20px;
+    height: 250px;
+    border: none!important;
+    background-color: #F6F7FB;
+}
+.forfootercard{
+    border: none!important;
+    background-color: white !important;
+}
+.baccardis{
+    border: none!important;
+}
+.colorimg img{
+    margin: 5px;
+}
+.colorimg{
+    margin-top: 3%;
+    margin-left: 35%;
+}
+.fodtext p{
+    font-family: Josefin Sans;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #151875;
+}
+.fodtext span{
+    margin-left: 8%;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    text-decoration-line: line-through;
+    color: #FB2E86;
+}
+.fodtext{
+    margin-left: 30%;
+}
+.cardimg img{
+    margin-left: 10%;
+    margin-top: 5%;
+}

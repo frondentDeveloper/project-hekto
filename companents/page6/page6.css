@@ -1,0 +1,73 @@
+.login{
+    width: 544px;
+    height: 464px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 25px 10px #F8F8FB;
+}
+.logintext{
+    width: 88px;
+    height: 32px;
+    font-family: Josefin Sans;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+}
+.logintext p{
+    position: absolute;
+    margin-left: 17%;
+    margin-top: 4%;
+}
+.liginpass{
+    text-align: center;
+    margin-top: 15%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    color: #9096B2;
+}
+.Adress{
+    margin-top: 5%;
+    margin-left: 9%;
+    outline: none;
+    width: 432px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #C2C5E1;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.forgotpas{
+    cursor: pointer;
+    margin-top: 3%;
+    margin-left: 9%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    color: #9096B2;
+}
+.singin{
+    margin-top: 4%;
+    margin-left: 9%;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    padding: 11px 0;
+    width: 432px;
+    height: 47px;
+    background: #FB2E86;
+    border-radius: 3px;
+}
+.dondtacc{
+    margin-top: 4%;
+   text-align: center;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+    color: #9096B2;
+}

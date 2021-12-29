@@ -1,0 +1,196 @@
+.bagimg{
+    margin-top: 4%;
+}
+.Ameli img{
+    margin-top: 2%;
+    height: 535px;
+}
+.playwood p{
+    padding: 5px;
+    margin-top: 15%;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #0D134E;
+}
+.twoonimg img{
+    margin-left: 8px;
+}
+.twoonimg{
+    margin-left: 10%;
+}
+.text22{
+    margin-left: 3%;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    line-height: 29px;
+    text-transform: capitalize;
+    color: #151875;
+}
+.dollor p{
+    margin-top: 3%;
+    margin-left: 12%;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    text-transform: capitalize;
+    color: #151875;
+}
+.dollor span{
+    margin-top: 3%;
+    margin-left: 8%;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    text-decoration-line: line-through;
+    text-transform: capitalize;
+    color: #FB2E86;
+}
+.colortext{
+    margin-top: 3%;
+    margin-left: 13%;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    line-height: 19px;
+    color: #0D134E;
+}
+.boxshadovs{
+    box-shadow: 0px 0px 25px 10px #F6F4FD;
+    border-radius: 2px;
+}
+.ispumdolor{
+    margin-top: 6%;
+    margin-left: 13%;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    color: #A9ACC6;
+}
+.Addtocard p{
+    margin-left: 13%;
+    margin-top: 4%;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    text-transform: capitalize;
+    color: #151875;
+}
+.Addtocard img{
+    margin-top: -5%;
+}
+.imgsgroup img{
+    width: 20px;
+    height: 20px;
+}
+.catigors p{
+    margin-left: 13%;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    color: #151875;
+}
+.catigors{
+    margin-top: -6%;
+}
+.imgsgroup img{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.baccolorgre{
+    background-color: #F9F8FE;
+    height: 600px;
+}
+.topvidecard a{
+    font-weight: bold;
+    margin-top: 20px !important;
+    margin-left: 70px;
+    font-family: Josefin Sans;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: none;
+    color: #151875;
+}
+.topvidecard a:hover{
+    color: #151875;
+}
+.topvidecard{
+    padding: 60px;
+    margin-top: 5%;
+    margin-left:1%;
+}
+.teprature{
+    font-weight: bold;
+    font-family: Josefin Sans;
+    font-size: 22px;
+    line-height: 26px;
+    color: #151875;
+    margin-left: 11%;
+}
+.moretexset{
+    margin-top: 2%;
+    padding:0 150px;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    color: #A9ACC6;
+}
+.moredetals{
+    margin-left: 11%;
+    margin-top: 3%;
+    font-weight: bold;
+    font-family: Josefin Sans;
+    font-size: 22px;
+    line-height: 26px;
+    color: #151875;
+}
+.detalmore{
+    margin-top: 2%;
+    margin-left: 11%;
+}
+.detalmore span{
+    margin-top: -0.8%;
+    margin-left: 2%;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 29px;
+    color: #A9ACC6;
+}
+.detalmore img{
+    width: 15px;
+    height: 15px;
+}
+.forsttext{
+    margin-top: 8%;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 42px;
+    color: #101750;
+}
+.menswear img{
+    width: 10px;
+    height: 15px;
+    margin-left: 5px;
+}
+.bacwhite{
+    margin-top: 5%;
+    background-color: #FFFFFF !important;
+    border: none !important;
+}
+.imgscard img{
+    height: 350px;
+}
+.menswear p{
+    font-family: Josefin Sans;
+    font-size: 16px;
+    line-height: 19px;
+    color: #151875;
+}
+.bacwhite span{
+    margin-top: 2%;
+    font-family: Josefin Sans;
+    font-size: 13px;
+    line-height: 15px;
+    color: #151875;
+}

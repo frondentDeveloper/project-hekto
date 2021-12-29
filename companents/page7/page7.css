@@ -1,0 +1,123 @@
+.knowtext{
+    margin-top: 3%;
+    margin-left: 4%;
+    width: 522px;
+    height: 96px;
+    left: 975px;
+    top: 571px;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    line-height: 48px;
+    color: #151875;
+}
+.loborts{
+    margin-top: 5%;
+    margin-left: 4%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8A8FB9;
+}
+.uscantact{
+    cursor: pointer;
+    margin-top: 10%;
+    margin-left: 4%;
+    padding: 9px 0;
+    text-align: center;
+    width: 145px;
+    height: 44px;
+    left: 975px;
+    top: 830px;
+    background: #FB2E86;
+    border-radius: 3px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.ourtextsay p{
+    margin-left: 33%;
+    position: absolute;
+    margin-top: 10%;
+    font-family: Josefin Sans;
+    font-size: 42px;
+    line-height: 26px;
+    color: #000000;
+}
+.cilentsahy{
+    margin-top: 10%;
+    background: #FBFBFF;
+    height: 770px;
+}
+.foeofcar img{
+    height: 200px;
+    margin: 10px;
+    width: 200px;
+}
+.foeofcar{
+    margin-top: 17%;
+    position: absolute;
+    margin-left: 14%;
+}
+.cardsimgs{
+    background: #FBFBFF!important;
+    border: none!important;
+    transition: 0.2s linear;
+}
+.cardsimgs:hover{
+    transition: 0.2s linear;
+    cursor: pointer;
+    margin-top: -5%;
+}
+.cardsimgs .card-body{
+    border: none!important;
+}
+.selenetext P{
+    position: absolute;
+    margin-left: -61%;
+    margin-top: 300px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 26px;
+}
+.ceotext{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 26px;
+    color: #8A8FB9;
+    margin-left: -59%;
+    margin-top: 335px;
+}
+.ceotext p{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #8A8FB9;
+}
+.moremtext{
+    margin-left: 18%;
+    margin-top: 47%;
+    width: 650px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #8A8FB9;
+    position: absolute;
+}
+.totop{
+    margin-top: 15%;
+}
